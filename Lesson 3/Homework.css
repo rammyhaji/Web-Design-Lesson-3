@@ -1,0 +1,32 @@
+.box1 {
+  background-color: white;
+   float: left; 
+   width: 33%;
+   height:100vh ;
+}
+
+.box1 h1{
+    color: orange;
+}
+.box2{
+    background-color: orangered;
+    float: left;
+    width: 33%;
+    height:100vh ;
+    text-align: center;
+}
+.box3{
+    float: left;
+    width: 34%;
+    height: 100vh;
+    background-image: url(zippelin.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box4{
+    overflow: auto;
+    width: 100%;
+    background-color: lightblue;
+}
+
+

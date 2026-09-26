@@ -1,0 +1,27 @@
+div{
+    background-color: lightgoldenrodyellow;
+
+}
+.A{
+    background-color: pink;
+    float:left;
+    width: 33%;
+}
+.B{
+    background-color: violet;
+    float: left;
+    width: 33%;
+}
+.C{
+    background-color: peachpuff;
+    float: left;
+    width: 33%;
+}
+.D{
+    background-color: lightblue;
+    overflow:auto
+    width:100%
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
